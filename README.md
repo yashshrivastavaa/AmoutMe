@@ -3,20 +3,14 @@
 ## <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Yash](https://www.linkedin.com/in/yash-shrivastava-a116a81b3/)</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👋 Hi, I’m **Yash Shrivastava**
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashshrivastavaa&label=Profile%20views&color=0e75b6&style=flat" alt="yashshrivastavaa" /> </p>
+
 - 👨‍🎓 At present I am pursuing my degree in *Bachlor Of Technology in Department Of Electronics & Communication* from *LNCT, Bhopal, ( M.P.)*
 - 🧠 I have excellent problem-solving skills and ability to perform well in a team.
 - ⌨️ Passionate of coding and contribute for the best with my skills for my service.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashshrivastavaa&label=Profile%20views&color=0e75b6&style=flat" alt="yashshrivastavaa" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/bitterastruth" target="blank"><img src="https://img.shields.io/twitter/follow/bitterastruth?logo=twitter&style=for-the-badge" alt="bitterastruth" /></a> </p>
-
 - 💬 Ask me about **Development, Android, Java, SQL, Full-Stack**
-
 - 📫 How to reach me **shrivastavayash92@gmail.com**
-
 - ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
 
 <h3 align="left">Connect with me:</h3>
