@@ -2,10 +2,7 @@
 
 ## <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Yash](https://www.linkedin.com/in/yash-shrivastava-a116a81b3/)</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashshrivastavaa&label=Profile%20views&color=0e75b6&style=flat" alt="yashshrivastavaa" /> </p>
-
 - 👨‍🎓 At present I am pursuing my degree in *Bachlor Of Technology in Department Of Electronics & Communication* from *LNCT, Bhopal, ( M.P.)*
 - 🧠 I have excellent problem-solving skills and ability to perform well in a team.
 - ⌨️ Passionate of coding and contribute for the best with my skills for my service.
