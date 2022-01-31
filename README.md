@@ -31,6 +31,7 @@
 </p>
 
 
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 <img src="https://github-profile-trophy.vercel.app/?username=yashshrivastavaa&theme=onedark&column=3&margin-w=15&margin-h=15">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashshrivastavaa&theme=tokyonight&count_private=true)
