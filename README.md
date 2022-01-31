@@ -3,6 +3,7 @@
 ## <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Yash](https://www.linkedin.com/in/yash-shrivastava-a116a81b3/)</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashshrivastavaa&label=Profile%20views&color=0e75b6&style=flat" alt="yashshrivastavaa" /> </p>
+
 - 👨‍🎓 At present I am pursuing my degree in *Bachlor Of Technology in Department Of Electronics & Communication* from *LNCT, Bhopal, ( M.P.)*
 - 🧠 I have excellent problem-solving skills and ability to perform well in a team.
 - ⌨️ Passionate of coding and contribute for the best with my skills for my service.
@@ -10,8 +11,10 @@
 - 📫 How to reach me **shrivastavayash92@gmail.com**
 - ⚡ Fun fact **If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 📫Connect with me  
+<p align="Left">
+<a href="https://www.linkedin.com/in/yash-shrivastava-a116a81b3/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="bitterastruth" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=918109369496&text=Hey%20my%20name%20is......." target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="bitterastruth" height="30" width="40" /></a>
 <a href="https://twitter.com/bitterastruth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bitterastruth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yash-shrivastava-a116a81b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-shrivastava-a116a81b3" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17623404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17623404" height="30" width="40" /></a>
@@ -40,19 +43,7 @@
 
 
 
-### 📫Connect with me
-  <a href="https://twitter.com/BitterAsTruth">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>&ensp;
-  <a href="https://www.linkedin.com/in/yash-shrivastava-a116a81b3/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-  <a href="https://www.instagram.com/yash_shrivastava_official/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>&ensp;
-  <a href="https://api.whatsapp.com/send?phone=918109369496&text=Hey%20my%20name%20is.......">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
-  </a>
+
   
 <!---
 yashshrivastavaa/yashshrivastavaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
