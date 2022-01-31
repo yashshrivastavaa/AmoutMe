@@ -1,6 +1,6 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGcUeV60YI88Q/profile-displaybackgroundimage-shrink_350_1400/0/1642927514778?e=1649289600&v=beta&t=D-njtssz8AdNp_GSmA-XRRjUH_RRPuncSJM4iMJwXhA)](https://github.com/yashshrivastavaa)
 
-## <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Yash](https://www.linkedin.com/in/yash-shrivastava-a116a81b3/)</h1>
+# <h1 align="left">Hey, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Yash](https://www.linkedin.com/in/yash-shrivastava-a116a81b3/)</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashshrivastavaa&label=Profile%20views&color=0e75b6&style=flat" alt="yashshrivastavaa" /> </p>
 
@@ -30,17 +30,17 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
-<img src="https://github-profile-trophy.vercel.app/?username=yashshrivastavaa&theme=onedark&column=4&margin-w=15&margin-h=15">
+<img src="https://github-profile-trophy.vercel.app/?username=yashshrivastavaa&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&column=4&margin-w=15&margin-h=15">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashshrivastavaa&theme=tokyonight&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashshrivastavaa&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
 
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashshrivastavaa&show_icons=true&hide_border=false&theme=tokyonight&count_private=true) 
+![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yashshrivastavaa&show_icons=true&hide_border=false&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashshrivastavaa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashshrivastavaa&layout=compact&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)
 
-![Yash's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=yashshrivastavaa&layout=compact&theme=tokyonight)
+![Yash's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=yashshrivastavaa&layout=compact&theme=react-dark&date_format=M%20j%5B%2C%20Y%5D)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yashshrivastavaa&theme=github&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yashshrivastavaa&theme=react-dark&date_format=M%20j%5B%2C%20Y%5D&count_private=true)  
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
