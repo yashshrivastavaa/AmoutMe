@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/yashshrivastavaa)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGcUeV60YI88Q/profile-displaybackgroundimage-shrink_350_1400/0/1642927514778?e=1649289600&v=beta&t=D-njtssz8AdNp_GSmA-XRRjUH_RRPuncSJM4iMJwXhA)](https://github.com/yashshrivastavaa)
 <h1 align="center">Hi 👋, I'm Yash Shrivastava</h1>
 <h3 align="center">Passionate of coding and contribute for the best with my skills for my service.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
